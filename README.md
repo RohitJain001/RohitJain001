@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on privacy preserving Machine learning & opensource <br>
 - 👯 I’m looking to collaborate on web development with React & Firebase <br>
 - 💬 Ask me about anything <br>
-- 📫 Reach me via email: rohitjain991100@gmail.com <br>
+- 📫 Reach me via email: rohitjain991100@gmail.com or linkedin: https://www.linkedin.com/in/rohitjain0001/ <br>
 - 😄 Pronouns: He/Him 
 
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rohitjain0001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
@@ -14,6 +14,7 @@
   <a href="https://www.codechef.com/users/rohit_jain__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/rjain1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 </p>
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -37,9 +38,10 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 </p>
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohitJain001&show_icons=true&locale=en&layout=compact" alt="RohitJain0017" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitJain001&show_icons=true&locale=en" alt="RohitJain001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitJain001&theme=dark" alt="RohitJain001" /></p>
+-->
